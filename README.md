@@ -1,2 +1,1 @@
-# VR-PRO-C146
-Robot WebVr
+# VR-PRO 146 AND 147
